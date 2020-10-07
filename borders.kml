@@ -4,9 +4,8 @@
 <Placemark> 
  <LineString>
   <coordinates>
-   135.2, 35.4, 0. 
-   135.4, 35.6, 0.
-   135.2, 35.6, 0.
+  -104,49
+   -104,41.
   </coordinates>
  </LineString>
 </Placemark>

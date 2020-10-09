@@ -23,7 +23,7 @@
   </Placemark>
   <Placemark>
 	<name>Arkansas</name>
-  <Style><LineStyle><color>ff0000ff</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
+  <Style><LineStyle><color>50147800</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#gz_2010_us_040_00_20m">
 		<SimpleData name="Name">Arkansas</SimpleData>
 		<SimpleData name="GEO_ID">0400000US05</SimpleData>
@@ -45,7 +45,7 @@
   </Placemark>
   <Placemark>
 	<name>Colorado</name>
-  <Style><LineStyle><color>ff0000ff</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
+  <Style><LineStyle><color>50147800</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#gz_2010_us_040_00_20m">
 		<SimpleData name="Name">Colorado</SimpleData>
 		<SimpleData name="GEO_ID">0400000US08</SimpleData>
@@ -56,7 +56,7 @@
   </Placemark>
   <Placemark>
 	<name>Connecticut</name>
-  <Style><LineStyle><color>ff0000ff</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
+  <Style><LineStyle><color>50F00014</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#gz_2010_us_040_00_20m">
 		<SimpleData name="Name">Connecticut</SimpleData>
 		<SimpleData name="GEO_ID">0400000US09</SimpleData>
@@ -67,7 +67,7 @@
   </Placemark>
   <Placemark>
 	<name>District of Columbia</name>
-  <Style><LineStyle><color>ff0000ff</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
+  <Style><LineStyle><color>50F00014</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#gz_2010_us_040_00_20m">
 		<SimpleData name="Name">District of Columbia</SimpleData>
 		<SimpleData name="GEO_ID">0400000US11</SimpleData>
@@ -78,7 +78,7 @@
   </Placemark>
   <Placemark>
 	<name>Georgia</name>
-  <Style><LineStyle><color>ff0000ff</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
+  <Style><LineStyle><color>50F00014</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#gz_2010_us_040_00_20m">
 		<SimpleData name="Name">Georgia</SimpleData>
 		<SimpleData name="GEO_ID">0400000US13</SimpleData>
@@ -90,7 +90,7 @@
   
   <Placemark>
 	<name>Illinois</name>
-  <Style><LineStyle><color>1cfc03</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
+  <Style><LineStyle><color>50147800</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#gz_2010_us_040_00_20m">
 		<SimpleData name="Name">Illinois</SimpleData>
 		<SimpleData name="GEO_ID">0400000US17</SimpleData>
@@ -101,7 +101,7 @@
   </Placemark>
   <Placemark>
 	<name>Indiana</name>
-  <Style><LineStyle><color>ff0000ff</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
+  <Style><LineStyle><color>50F00014</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#gz_2010_us_040_00_20m">
 		<SimpleData name="Name">Indiana</SimpleData>
 		<SimpleData name="GEO_ID">0400000US18</SimpleData>
@@ -112,7 +112,7 @@
   </Placemark>
   <Placemark>
 	<name>Louisiana</name>
-  <Style><LineStyle><color>ff0000ff</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
+  <Style><LineStyle><color>50147800</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#gz_2010_us_040_00_20m">
 		<SimpleData name="Name">Louisiana</SimpleData>
 		<SimpleData name="GEO_ID">0400000US22</SimpleData>
@@ -123,7 +123,7 @@
   </Placemark>
   <Placemark>
 	<name>Minnesota</name>
-  <Style><LineStyle><color>ff0000ff</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
+  <Style><LineStyle><color>50147800</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#gz_2010_us_040_00_20m">
 		<SimpleData name="Name">Minnesota</SimpleData>
 		<SimpleData name="GEO_ID">0400000US27</SimpleData>
@@ -134,7 +134,7 @@
   </Placemark>
   <Placemark>
 	<name>Mississippi</name>
-  <Style><LineStyle><color>ff0000ff</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
+  <Style><LineStyle><color>50F00014</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#gz_2010_us_040_00_20m">
 		<SimpleData name="Name">Mississippi</SimpleData>
 		<SimpleData name="GEO_ID">0400000US28</SimpleData>
@@ -167,7 +167,7 @@
   </Placemark>
   <Placemark>
 	<name>North Dakota</name>
-  <Style><LineStyle><color>ff0000ff</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
+  <Style><LineStyle><color>50147800</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#gz_2010_us_040_00_20m">
 		<SimpleData name="Name">North Dakota</SimpleData>
 		<SimpleData name="GEO_ID">0400000US38</SimpleData>
@@ -178,7 +178,7 @@
   </Placemark>
   <Placemark>
 	<name>Oklahoma</name>
-  <Style><LineStyle><color>ff0000ff</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
+  <Style><LineStyle><color>50147800</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#gz_2010_us_040_00_20m">
 		<SimpleData name="Name">Oklahoma</SimpleData>
 		<SimpleData name="GEO_ID">0400000US40</SimpleData>
@@ -189,7 +189,7 @@
   </Placemark>
   <Placemark>
 	<name>Pennsylvania</name>
-  <Style><LineStyle><color>ff0000ff</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
+  <Style><LineStyle><color>50F00014</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#gz_2010_us_040_00_20m">
 		<SimpleData name="Name">Pennsylvania</SimpleData>
 		<SimpleData name="GEO_ID">0400000US42</SimpleData>
@@ -200,7 +200,7 @@
   </Placemark>
   <Placemark>
 	<name>Tennessee</name>
-  <Style><LineStyle><color>ff0000ff</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
+  <Style><LineStyle><color>50F00014</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#gz_2010_us_040_00_20m">
 		<SimpleData name="Name">Tennessee</SimpleData>
 		<SimpleData name="GEO_ID">0400000US47</SimpleData>
@@ -211,7 +211,7 @@
   </Placemark>
   <Placemark>
 	<name>Virginia</name>
-  <Style><LineStyle><color>ff0000ff</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
+  <Style><LineStyle><color>50F00014</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#gz_2010_us_040_00_20m">
 		<SimpleData name="Name">Virginia</SimpleData>
 		<SimpleData name="GEO_ID">0400000US51</SimpleData>
@@ -223,7 +223,7 @@
   
   <Placemark>
 	<name>Delaware</name>
-  <Style><LineStyle><color>ff0000ff</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
+  <Style><LineStyle><color>50F00014</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#gz_2010_us_040_00_20m">
 		<SimpleData name="Name">Delaware</SimpleData>
 		<SimpleData name="GEO_ID">0400000US10</SimpleData>
@@ -234,7 +234,7 @@
   </Placemark>
   <Placemark>
 	<name>West Virginia</name>
-  <Style><LineStyle><color>ff0000ff</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
+  <Style><LineStyle><color>50F00014</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#gz_2010_us_040_00_20m">
 		<SimpleData name="Name">West Virginia</SimpleData>
 		<SimpleData name="GEO_ID">0400000US54</SimpleData>
@@ -245,7 +245,7 @@
   </Placemark>
   <Placemark>
 	<name>Wisconsin</name>
-  <Style><LineStyle><color>ff0000ff</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
+  <Style><LineStyle><color>50147800</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#gz_2010_us_040_00_20m">
 		<SimpleData name="Name">Wisconsin</SimpleData>
 		<SimpleData name="GEO_ID">0400000US55</SimpleData>
@@ -267,7 +267,7 @@
   </Placemark>
   <Placemark>
 	<name>Alabama</name>
-  <Style><LineStyle><color>ff0000ff</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
+  <Style><LineStyle><color>50F00014</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#gz_2010_us_040_00_20m">
 		<SimpleData name="Name">Alabama</SimpleData>
 		<SimpleData name="GEO_ID">0400000US01</SimpleData>
@@ -279,7 +279,7 @@
   
   <Placemark>
 	<name>Florida</name>
-  <Style><LineStyle><color>ff0000ff</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
+  <Style><LineStyle><color>50F00014</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#gz_2010_us_040_00_20m">
 		<SimpleData name="Name">Florida</SimpleData>
 		<SimpleData name="GEO_ID">0400000US12</SimpleData>
@@ -301,7 +301,7 @@
   </Placemark>
   <Placemark>
 	<name>Kansas</name>
-  <Style><LineStyle><color>ff0000ff</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
+  <Style><LineStyle><color>50147800</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#gz_2010_us_040_00_20m">
 		<SimpleData name="Name">Kansas</SimpleData>
 		<SimpleData name="GEO_ID">0400000US20</SimpleData>
@@ -312,7 +312,7 @@
   </Placemark>
   <Placemark>
 	<name>Maryland</name>
-  <Style><LineStyle><color>ff0000ff</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
+  <Style><LineStyle><color>50F00014</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#gz_2010_us_040_00_20m">
 		<SimpleData name="Name">Maryland</SimpleData>
 		<SimpleData name="GEO_ID">0400000US24</SimpleData>
@@ -323,7 +323,7 @@
   </Placemark>
   <Placemark>
 	<name>New Jersey</name>
-  <Style><LineStyle><color>ff0000ff</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
+  <Style><LineStyle><color>50F00014</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#gz_2010_us_040_00_20m">
 		<SimpleData name="Name">New Jersey</SimpleData>
 		<SimpleData name="GEO_ID">0400000US34</SimpleData>
@@ -334,7 +334,7 @@
   </Placemark>
   <Placemark>
 	<name>North Carolina</name>
-  <Style><LineStyle><color>ff0000ff</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
+  <Style><LineStyle><color>50F00014</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#gz_2010_us_040_00_20m">
 		<SimpleData name="Name">North Carolina</SimpleData>
 		<SimpleData name="GEO_ID">0400000US37</SimpleData>
@@ -345,7 +345,7 @@
   </Placemark>
   <Placemark>
 	<name>South Carolina</name>
-  <Style><LineStyle><color>ff0000ff</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
+  <Style><LineStyle><color>50F00014</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#gz_2010_us_040_00_20m">
 		<SimpleData name="Name">South Carolina</SimpleData>
 		<SimpleData name="GEO_ID">0400000US45</SimpleData>
@@ -367,7 +367,7 @@
   </Placemark>
   <Placemark>
 	<name>Vermont</name>
-  <Style><LineStyle><color>ff0000ff</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
+  <Style><LineStyle><color>50F00014</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#gz_2010_us_040_00_20m">
 		<SimpleData name="Name">Vermont</SimpleData>
 		<SimpleData name="GEO_ID">0400000US50</SimpleData>
@@ -389,7 +389,7 @@
   </Placemark>
   <Placemark>
 	<name>Iowa</name>
-  <Style><LineStyle><color>ff0000ff</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
+  <Style><LineStyle><color>50147800</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#gz_2010_us_040_00_20m">
 		<SimpleData name="Name">Iowa</SimpleData>
 		<SimpleData name="GEO_ID">0400000US19</SimpleData>
@@ -400,7 +400,7 @@
   </Placemark>
   <Placemark>
 	<name>Kentucky</name>
-  <Style><LineStyle><color>ff0000ff</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
+  <Style><LineStyle><color>50F00014</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#gz_2010_us_040_00_20m">
 		<SimpleData name="Name">Kentucky</SimpleData>
 		<SimpleData name="GEO_ID">0400000US21</SimpleData>
@@ -411,7 +411,7 @@
   </Placemark>
   <Placemark>
 	<name>Maine</name>
-  <Style><LineStyle><color>ff0000ff</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
+  <Style><LineStyle><color>50F00014</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#gz_2010_us_040_00_20m">
 		<SimpleData name="Name">Maine</SimpleData>
 		<SimpleData name="GEO_ID">0400000US23</SimpleData>
@@ -422,7 +422,7 @@
   </Placemark>
   <Placemark>
 	<name>Massachusetts</name>
-  <Style><LineStyle><color>ff0000ff</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
+  <Style><LineStyle><color>50F00014</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#gz_2010_us_040_00_20m">
 		<SimpleData name="Name">Massachusetts</SimpleData>
 		<SimpleData name="GEO_ID">0400000US25</SimpleData>
@@ -433,7 +433,7 @@
   </Placemark>
   <Placemark>
 	<name>Michigan</name>
-  <Style><LineStyle><color>ff0000ff</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
+  <Style><LineStyle><color>50F00014</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#gz_2010_us_040_00_20m">
 		<SimpleData name="Name">Michigan</SimpleData>
 		<SimpleData name="GEO_ID">0400000US26</SimpleData>
@@ -444,7 +444,7 @@
   </Placemark>
   <Placemark>
 	<name>Missouri</name>
-  <Style><LineStyle><color>ff0000ff</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
+  <Style><LineStyle><color>50147800</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#gz_2010_us_040_00_20m">
 		<SimpleData name="Name">Missouri</SimpleData>
 		<SimpleData name="GEO_ID">0400000US29</SimpleData>
@@ -455,7 +455,7 @@
   </Placemark>
   <Placemark>
 	<name>Nebraska</name>
-  <Style><LineStyle><color>ff0000ff</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
+  <Style><LineStyle><color>50147800</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#gz_2010_us_040_00_20m">
 		<SimpleData name="Name">Nebraska</SimpleData>
 		<SimpleData name="GEO_ID">0400000US31</SimpleData>
@@ -477,7 +477,7 @@
   </Placemark>
   <Placemark>
 	<name>New Hampshire</name>
-  <Style><LineStyle><color>ff0000ff</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
+  <Style><LineStyle><color>50F00014</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#gz_2010_us_040_00_20m">
 		<SimpleData name="Name">New Hampshire</SimpleData>
 		<SimpleData name="GEO_ID">0400000US33</SimpleData>
@@ -488,7 +488,7 @@
   </Placemark>
   <Placemark>
 	<name>New York</name>
-  <Style><LineStyle><color>ff0000ff</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
+  <Style><LineStyle><color>50F00014</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#gz_2010_us_040_00_20m">
 		<SimpleData name="Name">New York</SimpleData>
 		<SimpleData name="GEO_ID">0400000US36</SimpleData>
@@ -499,7 +499,7 @@
   </Placemark>
   <Placemark>
 	<name>Ohio</name>
-  <Style><LineStyle><color>ff0000ff</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
+  <Style><LineStyle><color>50F00014</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#gz_2010_us_040_00_20m">
 		<SimpleData name="Name">Ohio</SimpleData>
 		<SimpleData name="GEO_ID">0400000US39</SimpleData>
@@ -521,7 +521,7 @@
   </Placemark>
   <Placemark>
 	<name>Rhode Island</name>
-  <Style><LineStyle><color>ff0000ff</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
+  <Style><LineStyle><color>50F00014</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#gz_2010_us_040_00_20m">
 		<SimpleData name="Name">Rhode Island</SimpleData>
 		<SimpleData name="GEO_ID">0400000US44</SimpleData>
@@ -532,7 +532,7 @@
   </Placemark>
   <Placemark>
 	<name>South Dakota</name>
-  <Style><LineStyle><color>ff0000ff</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
+  <Style><LineStyle><color>50147800</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#gz_2010_us_040_00_20m">
 		<SimpleData name="Name">South Dakota</SimpleData>
 		<SimpleData name="GEO_ID">0400000US46</SimpleData>
@@ -543,7 +543,7 @@
   </Placemark>
   <Placemark>
 	<name>Texas</name>
-  <Style><LineStyle><color>ff0000ff</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
+  <Style><LineStyle><color>50147800</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#gz_2010_us_040_00_20m">
 		<SimpleData name="Name">Texas</SimpleData>
 		<SimpleData name="GEO_ID">0400000US48</SimpleData>

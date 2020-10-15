@@ -156,7 +156,7 @@
   </Placemark>
   <Placemark>
 	<name>New Mexico</name>
-  <Style><LineStyle><color>ff0000ff</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
+  <Style><LineStyle><color>50147800</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#gz_2010_us_040_00_20m">
 		<SimpleData name="Name">New Mexico</SimpleData>
 		<SimpleData name="GEO_ID">0400000US35</SimpleData>
